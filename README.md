@@ -90,18 +90,20 @@ To obtain an internship in Business Analysis, Project Management, Information Sy
 
 **Technologies:** HTML, CSS, JavaScript, Bootstrap  
 
-🔗 GitHub: [https://github.com/your-username/foodgo-frontend ](https://github.com/rashih2002/Food-delivery-app-frontend.git) 
+🔗 GitHub: [https://github.com/your-username/foodgo-frontend](https://github.com/rashih2002/Food-delivery-app-frontend.git) 
 
 ---
 
 ## 📱 Mobile App UI Design
+
 - Interactive Prototyping
 - User-Centered Design
 - Modern E-Commerce UI
 
-**Tools:** Figma  
+**Tools:** Figma
 
-🔗 GitHub: [https://github.com/your-username/mobile-ui-design](https://github.com/rashih2002/daraz-ui-redesign-figma.git)
+🔗 GitHub: [https://github.com/rashih2002/mobile-ui-design]([https://github.com/rashih2002/mobile-ui-design](https://github.com/rashih2002/daraz-ui-redesign-figma.git))
+
 ---
 
 # 📜 Certifications

@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 I'm Rashiprabha Rathnayaka</h1>
 
-<h3 align="center">Management Information Systems Undergraduate | Aspiring Business Analyst | Future Project Manager</h3>
+<h3 align="center">Management Information Systems Undergraduate </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Management+Information+Systems+Undergraduate;Business+Analysis+%7C+Project+Management;Database+Management+%7C+SQL+%7C+Power+BI;Java+%7C+Spring+Boot+%7C+React;Business+Process+Modeling+%7C+BPMN;Internship+Seeking" />
@@ -17,27 +17,25 @@
 
 # 🚀 About Me
 
-🎓 Third-Year Management Information Systems Undergraduate at NSBM Green University
+🎓 Third-Year Management Information Systems Undergraduate at NSBM Green University.
 
-💼 Interested in Business Analysis, Project Management, Information Systems, and Software Development
+📈 Passionate about bridging the gap between business needs and technology solutions through business analysis, process improvement, information systems, and data-driven decision making.
 
-📊 Passionate about Data Analytics, Database Management, and Business Intelligence
+💼 Developing expertise in Business Analysis, Project Management, Business Process Management, Data Analytics, Information Systems, and Digital Transformation.
 
-🌱 Currently learning Power BI, Spring Boot, and Software Project Management
+🤝 Experienced in working within collaborative team environments through academic and project-based initiatives, with a strong focus on problem-solving, stakeholder engagement, and continuous improvement.
 
-🎯 Seeking Internship Opportunities
+📊 Interested in leveraging data, business insights, and technology to enhance organizational performance and support strategic decision-making.
+
+🌱 Continuously expanding my knowledge in business intelligence, process optimization, project delivery, and enterprise information systems.
+
+🎯 Currently seeking internship opportunities in Business Analysis, Project Management, Information Systems, IT Operations, Data Analytics, or related business-technology domains.
 
 ---
 
 # 🎯 Career Objective
 
-To secure an internship in Business Analysis, Project Management, Information Systems, Data Analytics, or Software Development where I can apply my technical and analytical skills while contributing to real-world business solutions.
-
----
-
-# 💼 Internship Focus
-
-Business Analysis • Project Management • Information Systems • Data Analytics • SQL • Power BI • BPMN • Java • Spring Boot • React
+To obtain an internship in Business Analysis, Project Management, Information Systems, Data Analytics, or related business-technology domains, where I can leverage my academic knowledge, analytical thinking, and collaborative skills to support organizational objectives while developing professional expertise in the field.
 
 ---
 
@@ -49,87 +47,72 @@ Business Analysis • Project Management • Information Systems • Data Analyt
 
 ---
 
-# 📚 Business Analysis & Information Systems
-
-✅ Requirement Gathering
-
-✅ Business Requirement Documentation (BRD)
-
-✅ BPMN Process Modeling
-
-✅ Stakeholder Analysis
-
-✅ System Analysis
-
-✅ Process Improvement
-
----
-
 # 🚀 Featured Projects
 
 ## 🏥 Hospital Management System
-
 - Designed and implemented a normalized relational database
 - Developed ER diagrams and SQL queries
 - Managed patient, doctor, appointment, and billing records
 
-**Technologies:** MySQL, SQL, Database Design
+**Technologies:** MsSQL, SQL, Database Design  
+
+---
+
+## 🏥 Online Channeling System (BPM Project)
+- Business Process Analysis
+- BPMN 2.0 Modeling
+- Workflow Optimization
+- Process Improvement Recommendations
+
+**Technologies:** BPMN, Draw.io  
+
+🔗 GitHub: [https://github.com/your-username/online-channeling-system](https://github.com/rashih2002/Online-Channeling-System-eChanneling-.git)  
 
 ---
 
 ## 🎓 Student Management System
-
-**Tech Stack:** Java, Spring Boot, React, MySQL
+**Tech Stack:** Java, Spring Boot, React, MySQL  
 
 ### My Contributions
-
 - Spring Security Configuration
 - REST Controllers
 - StudentController Development
 - TeacherController Development
 - Backend Integration
 
+🔗 GitHub: [https://github.com/your-username/student-management-system](https://github.com/damithr27/Student_Management_System.git)  
+
 ---
 
 ## 🍔 FoodGo - Food Delivery Application
-
 **Frontend Development**
 
 ### My Contributions
-
 - Responsive UI Development
 - Mobile-Friendly Design
 - Improved Accessibility
 - Enhanced User Experience
 
-**Technologies:** HTML, CSS, JavaScript, Bootstrap
+**Technologies:** HTML, CSS, JavaScript, Bootstrap  
 
----
-
-## 🏥 Online Channeling System (BPM Project)
-
-- Business Process Analysis
-- BPMN 2.0 Modeling
-- Workflow Optimization
-- Process Improvement Recommendations
-
-**Technologies:** BPMN, Draw.io
+🔗 GitHub: [https://github.com/your-username/foodgo-frontend ](https://github.com/rashih2002/Food-delivery-app-frontend.git) 
 
 ---
 
 ## 📱 Mobile App UI Design
-
 - Interactive Prototyping
 - User-Centered Design
 - Modern E-Commerce UI
 
-**Tools:** Figma
+**Tools:** Figma  
 
+🔗 GitHub: [https://github.com/your-username/mobile-ui-design](https://github.com/rashih2002/daraz-ui-redesign-figma.git)
 ---
 
 # 📜 Certifications
 
-🏆 IBM Data Fundamentals
+📖 IBM Data Fundamentals  
+🔗 Certificate Link: [https://www.credly.com/badges/your-badge-link](https://www.credly.com/badges/344efd5e-4971-4c68-a8b6-d2aa2313f468/public_url)
 
 📖 Cisco Introduction to Cybersecurity (In Progress)
 
@@ -137,13 +120,7 @@ Business Analysis • Project Management • Information Systems • Data Analyt
 
 📖 Microsoft Power BI Learning Path (In Progress)
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rashih2002&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+📖 Full Stack Developer (Python Programming) – University of Moratuwa (In Progress) 
 
 ---
 
@@ -175,12 +152,10 @@ Business Analysis • Project Management • Information Systems • Data Analyt
 
 # 🌱 Currently Learning
 
-- Power BI Dashboard Development
-- Business Analysis Techniques
-- Spring Boot Development
-- Software Project Management
-- Cybersecurity Fundamentals
-
+- Power BI for data analytics, reporting, and dashboard development  
+- Business Analysis (requirements gathering, BPMN, stakeholder analysis)  
+- Software Project Management using Agile/Scrum practices  
+- Cybersecurity fundamentals for building secure and reliable systems  
 ---
 
 # 📫 Connect With Me
@@ -201,11 +176,5 @@ Business Analysis • Project Management • Information Systems • Data Analyt
 
 </p>
 
----
 
-<h3 align="center">⭐ Transforming Business Needs into Technology Solutions ⭐</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d4ff&height=120&section=footer"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a11cb,50:2575fc,100:00d4ff"/>
-```

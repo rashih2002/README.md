@@ -1,71 +1,171 @@
-```md
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,50:2575fc,100:00d4ff&text=Rashiprabha%20Rathnayaka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d4ff&height=220&section=header&text=Rashiprabha%20Rathnayaka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<h1 align="center">
-Hi 👋 I'm Rashiprabha
-</h1>
+<h1 align="center">Hi 👋 I'm Rashiprabha Rathnayaka</h1>
 
-<h3 align="center">
-Management Information Systems Undergraduate
-</h3>
+<h3 align="center">Management Information Systems Undergraduate | Aspiring Business Analyst | Future Project Manager</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Management+Information+Systems+Undergraduate;Aspiring+Business+Analyst;Future+Project+Manager;Database+Management+%7C+SQL+%7C+Power+BI;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Management+Information+Systems+Undergraduate;Business+Analysis+%7C+Project+Management;Database+Management+%7C+SQL+%7C+Power+BI;Java+%7C+Spring+Boot+%7C+React;Business+Process+Modeling+%7C+BPMN;Internship+Seeking" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rashih2002&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/rashih2002?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/rashih2002?affiliations=OWNER&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rashih2002&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/rashih2002?label=Followers&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Third-Year MIS Undergraduate at NSBM Green University
+🎓 Third-Year Management Information Systems Undergraduate at NSBM Green University
 
-📊 Passionate about Data Analytics and Business Intelligence
+💼 Interested in Business Analysis, Project Management, Information Systems, and Software Development
 
-💼 Interested in Business Analysis and Project Management
+📊 Passionate about Data Analytics, Database Management, and Business Intelligence
 
-💻 Enjoy building web applications and database solutions
-
-🌱 Currently learning Power BI, Spring Boot and Software Project Management
+🌱 Currently learning Power BI, Spring Boot, and Software Project Management
 
 🎯 Seeking Internship Opportunities
 
 ---
 
-## 🛠 Tech Stack
+# 🎯 Career Objective
+
+To secure an internship in Business Analysis, Project Management, Information Systems, Data Analytics, or Software Development where I can apply my technical and analytical skills while contributing to real-world business solutions.
+
+---
+
+# 💼 Internship Focus
+
+Business Analysis • Project Management • Information Systems • Data Analytics • SQL • Power BI • BPMN • Java • Spring Boot • React
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,spring,mysql,git,github,vscode,figma,bootstrap" />
-
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,spring,mysql,git,github,vscode,bootstrap" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+# 📚 Business Analysis & Information Systems
+
+✅ Requirement Gathering
+
+✅ Business Requirement Documentation (BRD)
+
+✅ BPMN Process Modeling
+
+✅ Stakeholder Analysis
+
+✅ System Analysis
+
+✅ Process Improvement
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Hospital Management System
+
+- Designed and implemented a normalized relational database
+- Developed ER diagrams and SQL queries
+- Managed patient, doctor, appointment, and billing records
+
+**Technologies:** MySQL, SQL, Database Design
+
+---
+
+## 🎓 Student Management System
+
+**Tech Stack:** Java, Spring Boot, React, MySQL
+
+### My Contributions
+
+- Spring Security Configuration
+- REST Controllers
+- StudentController Development
+- TeacherController Development
+- Backend Integration
+
+---
+
+## 🍔 FoodGo - Food Delivery Application
+
+**Frontend Development**
+
+### My Contributions
+
+- Responsive UI Development
+- Mobile-Friendly Design
+- Improved Accessibility
+- Enhanced User Experience
+
+**Technologies:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+## 🏥 Online Channeling System (BPM Project)
+
+- Business Process Analysis
+- BPMN 2.0 Modeling
+- Workflow Optimization
+- Process Improvement Recommendations
+
+**Technologies:** BPMN, Draw.io
+
+---
+
+## 📱 Mobile App UI Design
+
+- Interactive Prototyping
+- User-Centered Design
+- Modern E-Commerce UI
+
+**Tools:** Figma
+
+---
+
+# 📜 Certifications
+
+🏆 IBM Data Fundamentals
+
+📖 Cisco Introduction to Cybersecurity (In Progress)
+
+📖 Microsoft Learn Data Fundamentals (In Progress)
+
+📖 Microsoft Power BI Learning Path (In Progress)
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rashih2002&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashih2002&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=rashih2002&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rashih2002&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashih2002&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashih2002&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rashih2002&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashih2002&theme=tokyo-night&hide_border=true"/>
@@ -73,40 +173,17 @@ Management Information Systems Undergraduate
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌱 Currently Learning
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rashih2002&theme=tokyonight&row=1&column=7&no-frame=true"/>
-</p>
-
----
-
-## 💼 Featured Projects
-
-### 🏥 Hospital Management System
-Database Design • SQL • ER Diagrams • Normalization
-
-### 🎓 Student Management System
-Java • Spring Boot • React • REST API
-
-### 🍔 FoodGo
-HTML • CSS • JavaScript • Bootstrap
-
-### 🏥 Online Channeling BPM Project
-Business Analysis • BPMN • Process Improvement
-
-### 📱 Mobile App UI Design
-Figma • UI/UX • Prototyping
+- Power BI Dashboard Development
+- Business Analysis Techniques
+- Spring Boot Development
+- Software Project Management
+- Cybersecurity Fundamentals
 
 ---
 
-## 🎯 Career Objective
-
-To secure an internship in Business Analysis, Project Management, Information Systems, Data Analytics, or Software Development where I can apply my technical and analytical skills while contributing to real-world business solutions.
-
----
-
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -123,6 +200,12 @@ To secure an internship in Business Analysis, Project Management, Information Sy
 </a>
 
 </p>
+
+---
+
+<h3 align="center">⭐ Transforming Business Needs into Technology Solutions ⭐</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d4ff&height=120&section=footer"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a11cb,50:2575fc,100:00d4ff"/>
 ```

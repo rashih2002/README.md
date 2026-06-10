@@ -100,10 +100,9 @@ To obtain an internship in Business Analysis, Project Management, Information Sy
 - User-Centered Design
 - Modern E-Commerce UI
 
-**Tools:** Figma
+*Tools:* Figma
 
-🔗 GitHub: [https://github.com/rashih2002/mobile-ui-design]([https://github.com/rashih2002/mobile-ui-design](https://github.com/rashih2002/daraz-ui-redesign-figma.git))
-
+🔗 GitHub: [Daraz UI Redesign (Figma)](https://github.com/rashih2002/daraz-ui-redesign-figma)
 ---
 
 # 📜 Certifications

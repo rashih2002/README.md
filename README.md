@@ -5,7 +5,7 @@
 <h3 align="center">Management Information Systems Undergraduate </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Management+Information+Systems+Undergraduate;Business+Analysis+%7C+Project+Management;Database+Management+%7C+SQL+%7C+Power+BI;Java+%7C+Spring+Boot+%7C+React;Business+Process+Modeling+%7C+BPMN;Internship+Seeking" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Management+Information+Systems+Undergraduate;Business+Analysis+%7C+Project+Management;Database+Management+%7C+SQL+%7C+Power+BI;Business+Process+Modeling+%7C+BPMN;Internship+Seeking" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ To obtain an internship in Business Analysis, Project Management, Information Sy
 - Developed ER diagrams and SQL queries
 - Managed patient, doctor, appointment, and billing records
 
-**Technologies:** MsSQL, SQL, Database Design  
+**Technologies:** MS SQL Server, SQL, Database Design  
 
 ---
 
@@ -61,7 +61,7 @@ To obtain an internship in Business Analysis, Project Management, Information Sy
 
 **Technologies:** BPMN, Draw.io  
 
-🔗 GitHub: [https://github.com/your-username/online-channeling-system](https://github.com/rashih2002/Online-Channeling-System-eChanneling-.git)  
+🔗 GitHub: https://github.com/rashih2002/Online-Channeling-System-eChanneling-.git  
 
 ---
 
@@ -75,7 +75,7 @@ To obtain an internship in Business Analysis, Project Management, Information Sy
 - TeacherController Development
 - Backend Integration
 
-🔗 GitHub: [https://github.com/your-username/student-management-system](https://github.com/damithr27/Student_Management_System.git)  
+🔗 GitHub: https://github.com/damithr27/Student_Management_System.git  
 
 ---
 
@@ -90,20 +90,18 @@ To obtain an internship in Business Analysis, Project Management, Information Sy
 
 **Technologies:** HTML, CSS, JavaScript, Bootstrap  
 
-🔗 GitHub: [https://github.com/your-username/foodgo-frontend](https://github.com/rashih2002/Food-delivery-app-frontend.git) 
+🔗 GitHub: https://github.com/rashih2002/Food-delivery-app-frontend.git  
 
 ---
 
 ## 📱 Mobile App UI Design
-
 - Interactive Prototyping
 - User-Centered Design
 - Modern E-Commerce UI
 
-*Tools:* Figma
+**Tools:** Figma  
 
-🔗 GitHub: [Daraz UI Redesign (Figma)](https://github.com/rashih2002/daraz-ui-redesign-figma)
----
+🔗 GitHub: https://github.com/rashih2002/daraz-ui-redesign-figma
 
 # 📜 Certifications
 

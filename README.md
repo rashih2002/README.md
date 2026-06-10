@@ -8,11 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Management+Information+Systems+Undergraduate;Business+Analysis+%7C+Project+Management;Database+Management+%7C+SQL+%7C+Power+BI;Java+%7C+Spring+Boot+%7C+React;Business+Process+Modeling+%7C+BPMN;Internship+Seeking" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rashih2002&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/rashih2002?label=Followers&style=for-the-badge"/>
-</p>
-
 ---
 
 # 🚀 About Me

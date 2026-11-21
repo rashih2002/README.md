@@ -107,13 +107,6 @@ To obtain an internship in Business Analysis, Project Management, Information Sy
 
 📖 IBM Data Fundamentals  
 🔗 Certificate Link: [https://www.credly.com/badges/your-badge-link](https://www.credly.com/badges/344efd5e-4971-4c68-a8b6-d2aa2313f468/public_url)
-
-📖 Cisco Introduction to Cybersecurity (In Progress)
-
-📖 Microsoft Learn Data Fundamentals (In Progress)
-
-📖 Microsoft Power BI Learning Path (In Progress)
-
 📖 Full Stack Developer (Python Programming) – University of Moratuwa (In Progress) 
 
 ---
